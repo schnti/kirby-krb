@@ -35,9 +35,8 @@ More info about this plug-in can be found at **https://forum.getkirby.com/t/4651
 
 ### Installation
 
-- Download the .zip and extract it to the root of your site.
-- Don't know which files? Just use `/site/plugins/krb/`.
-- Optionally you can configure some settings in `site/config/config.php`.
+- Download the .zip and extract it to `site/plugins/krb/`.
+- Optionally you can configure some settings in `site/config/config.php` see the `krb-example-config.php`.
 
 ### Usage
 
