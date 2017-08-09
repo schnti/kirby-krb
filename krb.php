@@ -38,6 +38,7 @@ DEFINE('KRB_ROOT', kirby()->site()->url() . '/');
 /* Ref 3. https://github.com/matthiasmullie/minify */
 
 use MatthiasMullie\Minify;
+use MatthiasMullie\PathConverter;
 
 function krb_msg($msg, $em) {
   $em_prefix = $em != 0?'%c':'';
@@ -234,6 +235,7 @@ function krb($assets, $type, $version, $minify, $cache, $debug) {
 
     require_once 'src/Minify.php';
     require_once 'src/Exception.php';
+    require_once 'src/ConverterInterface.php';
     require_once 'src/Converter.php';
 
       switch ($type) {

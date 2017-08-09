@@ -1,13 +1,18 @@
 # [Kirby - KRB](https://github.com/1n3JgKl9pQ6cUMrW/kirby-krb)
 
-#### Version 1.0.0 - 2016-07-08
+#### Version 1.2.0 - 2017-08-09 - eXpl0it3r
 
-- Initial Public Offering.
+- Restructured repository for use as git submodule
+- Updated Minify and PathConverter
 
 #### Version 1.1.0 - 2016-07-09
 
 - Better debug options.
 - Option to `defer` and `async` the minified js-output (`config.php`).
+
+#### Version 1.0.0 - 2016-07-08
+
+- Initial Public Offering.
 
 ****
 
