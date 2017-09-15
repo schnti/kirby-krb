@@ -1,6 +1,6 @@
 {
   "name": "krb",
-  "description": "kirby piwik plugin and widget",
+  "description": "minifies and combines all assets (JavaScript and StyleSheets)",
   "author": "Lukas Dürrenberger (eXpl0it3r)",
   "license": "MIT",
   "version": "1.2.0",
