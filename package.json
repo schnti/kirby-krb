@@ -1,0 +1,12 @@
+{
+  "name": "krb",
+  "description": "kirby piwik plugin and widget",
+  "author": "Lukas Dürrenberger (eXpl0it3r)",
+  "license": "MIT",
+  "version": "1.2.0",
+  "type": "kirby-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eXpl0it3r/kirby-krb"
+  }
+}
